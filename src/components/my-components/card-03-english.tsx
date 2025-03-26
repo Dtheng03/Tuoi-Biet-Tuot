@@ -36,7 +36,7 @@ export default function Card03English() {
                         <DialogTitle>Should we use teeth whitening products like kits or whitening strips?</DialogTitle>
                     </DialogHeader>
                     <iframe
-                        src="https://www.youtube.com/embed/dQw4w9WgXcQ" // Bắt buộc mute để autoplay
+                        src="https://www.youtube.com/embed/tA9BLffe-0A" // Bắt buộc mute để autoplay
                         allow="autoplay; fullscreen"
                         allowFullScreen
                         className="aspect-video w-full"

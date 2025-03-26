@@ -36,7 +36,7 @@ export default function Card06English() {
                         <DialogTitle>Effective Management of Gingivitis</DialogTitle>
                     </DialogHeader>
                     <iframe
-                        src="https://www.youtube.com/embed/dQw4w9WgXcQ" // Bắt buộc mute để autoplay
+                        src="https://www.youtube.com/embed/NfgZ0aq9ea0" // Bắt buộc mute để autoplay
                         allow="autoplay; fullscreen"
                         allowFullScreen
                         className="aspect-video w-full"

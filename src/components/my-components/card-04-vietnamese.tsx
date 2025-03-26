@@ -36,7 +36,7 @@ export default function Card04Vietnamese() {
                         <DialogTitle>Nguyên nhân và biện pháp khắc phục tình trạng lưỡi trắng</DialogTitle>
                     </DialogHeader>
                     <iframe
-                        src="https://www.youtube.com/embed/dQw4w9WgXcQ" // Bắt buộc mute để autoplay
+                        src="https://www.youtube.com/embed/xconCltCm2c" // Bắt buộc mute để autoplay
                         allow="autoplay; fullscreen"
                         allowFullScreen
                         className="aspect-video w-full"

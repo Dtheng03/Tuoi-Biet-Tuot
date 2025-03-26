@@ -36,7 +36,7 @@ export default function Card07Vietnamese() {
                         <DialogTitle>Cách xử lý hiệu quả khi răng khôn gây đau nhức, sưng tấy</DialogTitle>
                     </DialogHeader>
                     <iframe
-                        src="https://www.youtube.com/embed/dQw4w9WgXcQ" // Bắt buộc mute để autoplay
+                        src="https://www.youtube.com/embed/4xL27O6SDd8" // Bắt buộc mute để autoplay
                         allow="autoplay; fullscreen"
                         allowFullScreen
                         className="aspect-video w-full"

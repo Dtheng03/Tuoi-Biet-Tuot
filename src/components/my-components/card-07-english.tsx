@@ -36,7 +36,7 @@ export default function Card07English() {
                         <DialogTitle>Effective treatment when wisdom teeth cause pain and swelling</DialogTitle>
                     </DialogHeader>
                     <iframe
-                        src="https://www.youtube.com/embed/dQw4w9WgXcQ" // Bắt buộc mute để autoplay
+                        src="https://www.youtube.com/embed/xLX1spRJ3Kg" // Bắt buộc mute để autoplay
                         allow="autoplay; fullscreen"
                         allowFullScreen
                         className="aspect-video w-full"

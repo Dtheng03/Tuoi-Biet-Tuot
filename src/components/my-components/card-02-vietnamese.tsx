@@ -36,7 +36,7 @@ export default function Card02Vietnamese() {
                         <DialogTitle>Những phương pháp hiệu quả để cải thiện tình trạng răng xỉn màu</DialogTitle>
                     </DialogHeader>
                     <iframe
-                        src="https://www.youtube.com/embed/dQw4w9WgXcQ" // Bắt buộc mute để autoplay
+                        src="https://www.youtube.com/embed/SdiTCg8AVfE" // Bắt buộc mute để autoplay
                         allow="autoplay; fullscreen"
                         allowFullScreen
                         className="aspect-video w-full"

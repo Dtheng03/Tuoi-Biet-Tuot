@@ -36,7 +36,7 @@ export default function Card05Vietnamese() {
                         <DialogTitle>Chỉ nha khoa, tăm nước có cần thiết để duy trì hằng ngày</DialogTitle>
                     </DialogHeader>
                     <iframe
-                        src="https://www.youtube.com/embed/dQw4w9WgXcQ" // Bắt buộc mute để autoplay
+                        src="https://www.youtube.com/embed/M_vWZf9ktTg" // Bắt buộc mute để autoplay
                         allow="autoplay; fullscreen"
                         allowFullScreen
                         className="aspect-video w-full"

@@ -36,7 +36,7 @@ export default function Card01English() {
                         <DialogTitle>Causes of Tooth Decay, Bad Breath and How to Fix Them</DialogTitle>
                     </DialogHeader>
                     <iframe
-                        src="https://www.youtube.com/embed/dQw4w9WgXcQ" // Bắt buộc mute để autoplay
+                        src="https://www.youtube.com/embed/LL04xJnfVhw" // Bắt buộc mute để autoplay
                         allow="autoplay; fullscreen"
                         allowFullScreen
                         className="aspect-video w-full"

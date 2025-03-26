@@ -36,7 +36,7 @@ export default function Card03Vietnamese() {
                         <DialogTitle>Có nên sử dụng những sản phẩm làm trắng răng hay không?</DialogTitle>
                     </DialogHeader>
                     <iframe
-                        src="https://www.youtube.com/embed/dQw4w9WgXcQ" // Bắt buộc mute để autoplay
+                        src="https://www.youtube.com/embed/hrJPwz-RZ7A" // Bắt buộc mute để autoplay
                         allow="autoplay; fullscreen"
                         allowFullScreen
                         className="aspect-video w-full"

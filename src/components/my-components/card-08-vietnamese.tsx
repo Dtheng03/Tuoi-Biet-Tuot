@@ -36,7 +36,7 @@ export default function Card08Vietnamese() {
                         <DialogTitle>Tác hại do thói quen nghiến răng, nhai đá, dùng răng mở nắp chai</DialogTitle>
                     </DialogHeader>
                     <iframe
-                        src="https://www.youtube.com/embed/dQw4w9WgXcQ" // Bắt buộc mute để autoplay
+                        src="https://www.youtube.com/embed/FunS5sHYwgU" // Bắt buộc mute để autoplay
                         allow="autoplay; fullscreen"
                         allowFullScreen
                         className="aspect-video w-full"

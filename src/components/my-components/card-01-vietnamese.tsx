@@ -36,7 +36,7 @@ export default function Card01Vietnamese() {
                         <DialogTitle>Nguyên nhân gây ra sâu răng, hôi miệng và cách khắc phục</DialogTitle>
                     </DialogHeader>
                     <iframe
-                        src="https://www.youtube.com/embed/dQw4w9WgXcQ" // Bắt buộc mute để autoplay
+                        src="https://www.youtube.com/embed/p87qQq5s2_4" // Bắt buộc mute để autoplay
                         allow="autoplay; fullscreen"
                         allowFullScreen
                         className="aspect-video w-full"

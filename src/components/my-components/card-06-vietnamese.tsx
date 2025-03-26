@@ -36,7 +36,7 @@ export default function Card06Vietnamese() {
                         <DialogTitle>Cách xử lý viêm nướu hiệu quả</DialogTitle>
                     </DialogHeader>
                     <iframe
-                        src="https://www.youtube.com/embed/dQw4w9WgXcQ" // Bắt buộc mute để autoplay
+                        src="https://www.youtube.com/embed/vTQiCJnC_t8" // Bắt buộc mute để autoplay
                         allow="autoplay; fullscreen"
                         allowFullScreen
                         className="aspect-video w-full"

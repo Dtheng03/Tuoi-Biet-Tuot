@@ -36,7 +36,7 @@ export default function Card08English() {
                         <DialogTitle>The harmful effects of teeth grinding, ice chewing and using teeth to open bottle caps</DialogTitle>
                     </DialogHeader>
                     <iframe
-                        src="https://www.youtube.com/embed/dQw4w9WgXcQ" // Bắt buộc mute để autoplay
+                        src="https://www.youtube.com/embed/ri0mSFefq4A" // Bắt buộc mute để autoplay
                         allow="autoplay; fullscreen"
                         allowFullScreen
                         className="aspect-video w-full"
